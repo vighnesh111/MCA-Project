@@ -1,6 +1,4 @@
-;Vighnesh Vikas Salgaonkar
-;EXTC TY | B-21
-;EXP-9
+;Author: Vighnesh Vikas Salgaonkar
 ;KEYBOARD INPUT DISPLAY
 
 ;_______________________________
